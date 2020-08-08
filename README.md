@@ -31,3 +31,23 @@ Sources: [nameko](https://github.com/nameko/nameko)
 - [nameko-stripe](https://github.com/marcuspen/nameko-stripe) - Stripe online payment service integration.
 - [nameko-structlog](https://github.com/tyler46/nameko-structlog) - Nameko extension exposing a structlog dependency injector.
 - [nameko-tracer](https://github.com/nameko/nameko-tracer) - Tracer.
+
+## Examples
+
+- [example-gateway (docker)](https://hub.docker.com/r/nameko/nameko-example-gateway)
+- [example-products (docker)](https://hub.docker.com/r/nameko/nameko-example-products)
+- [example-orders (docker)](https://hub.docker.com/r/nameko/nameko-example-orders)
+- [examples-grpc-gateway (docker](https://hub.docker.com/r/nameko/nameko-examples-grpc-gateway)
+- [examples-grpc-products (docker)](https://hub.docker.com/r/nameko/nameko-examples-grpc-products)
+- [examples-grpc-orders (docker)](https://hub.docker.com/r/nameko/nameko-examples-grpc-orders)
+- [nameko-rabbitmq](https://hub.docker.com/r/nameko/nameko-rabbitmq)
+
+## Blog posts
+
+- [Data science in production with Docker](https://medium.com/@gijswobben/data-science-in-production-with-docker-b6673231677a)
+- [Microservices with Nameko — Example App](https://medium.com/@JakubBorys/microservices-with-nameko-example-app-de45d50b3c5e) - [nameko-examples](https://github.com/nameko/nameko-examples)
+- [Introduction to Nameko with Docker](https://max6log.wordpress.com/2017/04/23/introduction-to-nameko-with-docker/)
+- [Introduction to Python Microservices with Nameko (morioh)](https://morioh.com/p/64fd8227f38d)
+- [Introduction to Python Microservices with Nameko (toptal)](https://www.toptal.com/python/introduction-python-microservices-nameko)
+- [Python micro services: Nameko + Flask + RabbitMQ + Docker](https://medium.com/@alvaropaconeto/python-micro-services-nameko-flash-rabbitmq-docker-f85339abf42a)
+- [Run Nameko Services on Kubernetes](https://medium.com/@JakubBorys/run-nameko-services-on-kubernetes-c4db3a863f05)
