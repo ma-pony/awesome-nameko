@@ -2,6 +2,14 @@
 
 > Python framework for building microservices.
 
+Website: [nameko.io](https://www.nameko.io)
+
+Forum: [discourse.nameko.io](https://discourse.nameko.io)
+
+Gitter: [nameko/Lobby](https://gitter.im/nameko/Lobby)
+
+Twitter: [twitter/nameko_python](https://twitter.com/nameko_python)
+
 Sources: [nameko](https://github.com/nameko/nameko)
 
 ## Extensions
