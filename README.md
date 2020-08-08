@@ -51,3 +51,9 @@ Sources: [nameko](https://github.com/nameko/nameko)
 - [Introduction to Python Microservices with Nameko (toptal)](https://www.toptal.com/python/introduction-python-microservices-nameko)
 - [Python micro services: Nameko + Flask + RabbitMQ + Docker](https://medium.com/@alvaropaconeto/python-micro-services-nameko-flash-rabbitmq-docker-f85339abf42a)
 - [Run Nameko Services on Kubernetes](https://medium.com/@JakubBorys/run-nameko-services-on-kubernetes-c4db3a863f05)
+
+## Videos
+
+- [A practical domain driven design approach to Nameko microservices (Python España 2019)](https://www.youtube.com/watch?v=4O4jo56fgXE) (helpful slides in english)
+- [Introduction to Microservices with Nameko](https://www.youtube.com/watch?v=0ih4SBxCL3I)
+- [Nameko for Microservices (EuroPython 2015)](https://www.youtube.com/watch?v=S-utpUpaGqQ)
