@@ -10,6 +10,8 @@ Gitter: [nameko/Lobby](https://gitter.im/nameko/Lobby)
 
 Twitter: [twitter/nameko_python](https://twitter.com/nameko_python)
 
+Documentation: [nameko.readthedocs.io](https://nameko.readthedocs.io)
+
 Sources: [nameko](https://github.com/nameko/nameko)
 
 ## Extensions
