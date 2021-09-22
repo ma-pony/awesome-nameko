@@ -42,6 +42,8 @@ Sources: [nameko](https://github.com/nameko/nameko)
 - [nameko-structlog](https://github.com/tyler46/nameko-structlog) - Nameko extension exposing a structlog dependency injector.
 - [nameko-tracer](https://github.com/nameko/nameko-tracer) - Tracer.
 - [nameko-apscheduler](https://github.com/ma-pony/nameko-apscheduler) - A Nameko dependency provider for easy use with apscheduler.
+- [kinopio](https://github.com/gundam1993/kinopio) - A node client of nameko.
+
 
 ## Examples
 
